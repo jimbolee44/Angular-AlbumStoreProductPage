@@ -22,6 +22,7 @@ const appRoutes: Routes = [
     AppComponent,
     ProductPageComponent,
     ProductTracklistingComponent,
+    ProductDescriptionComponent,
     ProductListComponent
   ],
   imports: [
